@@ -15,3 +15,7 @@
 a {
     color: initial;
 }
+
+a:hover {
+    color: red;
+}
